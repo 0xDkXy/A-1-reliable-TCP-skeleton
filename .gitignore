@@ -3,3 +3,4 @@ client
 rcvd
 server
 .vscode/
+test/*
